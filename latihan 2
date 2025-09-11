@@ -1,0 +1,4 @@
+panjang =float(input('Masukkan panjang = ')) 
+lebar =float(input('masukkan lebar = ')) 
+luas = panjang * lebar
+print('luas persegi panjang adalah = ',luas)
