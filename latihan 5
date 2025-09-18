@@ -1,0 +1,4 @@
+my_list = [1, "apel", 3.14]
+my_list[1] = "pisang" # mengubah elemen
+my_list.append(4)    # menambah elemen
+print(my_list) # output: [1, 'pisang', 3.14, 4]
