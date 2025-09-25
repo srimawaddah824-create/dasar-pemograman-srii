@@ -1,0 +1,8 @@
+buah = ("apel","mangga","jeruk","pisang")
+angka = (1,2,3,4,5)
+campuran = ("hello",123,True,3,14)
+129302
+
+print("Tuple buah:",buah)
+print("Tuple angka:",angka)
+print("tuple campuran:",campuran)
