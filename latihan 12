@@ -1,0 +1,9 @@
+buah = ("apel","mangga","jeruk","pisang")
+print("Elemen pertama:",buah[0])# Output :apel
+print("Elemen terakhir:",buah[-1])# Output : pisang
+# slicing(memotong tuple)
+print("Dua elemen pertama:",buah[0:2])#Output :('apel','mangga')
+
+print("jumlah buah:", len(buah))#Ouput:4
+# Mengecek keberadaan elemen
+print("Apakah 'mangga' ada?", "mangga" in buah)#Output: truebuah = ("apel","mangga","jeruk","pisang")
