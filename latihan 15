@@ -1,0 +1,14 @@
+angka = 12345.678910
+
+print(f"Format biasa: {angka}")
+print(f"2 digit desimal: {angka:.2f}")
+print(f"Separator ribuan: (angka:..21)")
+print(f"Persentase: {0.4567:.1%}")
+print(f"Hexadecimal: {255 :#x}")
+print(f"Binary: {10:b}")
+#format teks
+teks = "python"
+print(f"rata kiri: |{teks:<10}|")
+print(f"Rata kanan: |{teks:10}|")
+print(f"Rata tengah: |{teks:^10}|")
+print(f"Padding karakter: |{teks:*^10}|")
