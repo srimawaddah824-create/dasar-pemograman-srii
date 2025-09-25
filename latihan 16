@@ -1,0 +1,5 @@
+late = False 
+if late:
+	print("jika saya terlambat saya melapor ke walas!")
+else:
+	print("saya tidak diberi hukuman oleh walas")
