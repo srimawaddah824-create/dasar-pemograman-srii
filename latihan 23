@@ -1,0 +1,8 @@
+people = ['sri', 'esa', 'sipa', 'diva']
+ages = [29, 45, 15, 700]
+position = 0
+while position < len(people):
+	person = people[position]
+	age = ages [position]
+	print (person, age)
+	position += 1
