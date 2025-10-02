@@ -1,0 +1,11 @@
+# Program Konversi Nilai ke Huruf
+nilai = int(input("Masukkan nilai: "))# Program
+
+if nilai >= 91 and nilai <= 100:
+    print("A")
+elif nilai >= 81 and nilai <= 90:
+    print("B")
+elif nilai >= 80 and nilai <= 75:
+    print=("C")
+else:
+    print= ("D")
