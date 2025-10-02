@@ -1,0 +1,8 @@
+#perulangan menggunakan wibe
+n = 39
+remainders = []
+while n > 0:
+	remainder = n % 2 # remainder of division by 
+	remainders.insert (0, remainder)
+	n //= 2
+print (remainders)
