@@ -1,0 +1,25 @@
+for number in [0 , 1 , 2 , 3 , 4 ]:
+	print (number)
+	
+	
+	
+for number in range (5) :
+	print (number)
+	
+	
+#simple for py	
+surnames = ['sri' , 'sipa' , 'esa']
+for position in range (len(surnames)):
+	print(position, surnames[position])
+	
+	
+surnames =['sri' , 'imut' , 'lucu']
+for surname in surnames :
+	print (surname)
+	
+people = ['Rayan' , 'sri' ,'esa']
+ages = [15 , 85, 90]
+for position in range (len(people)):
+	person = people [position]
+	age = ages [position]
+	print (person , age)
