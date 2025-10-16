@@ -1,0 +1,7 @@
+# Mendefinisikan fungsi sapa_nama dengan parameter nama
+def sapa_nama(nama):
+  print(f"Halo, {nama}! Apa kabar?")
+
+# Memanggil fungsi dengan memberikan nilai untuk parameter nama
+sapa_nama("sri")
+sapa_nama("rohana")
