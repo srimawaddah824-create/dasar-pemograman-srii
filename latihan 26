@@ -1,0 +1,5 @@
+# prosedur untuk menampilkan pesan
+def tampilkan_pesan(nama):
+	print("selamat datang",nama,"dikelas python!")
+# program utama
+tampilkan_pesan("andi")
